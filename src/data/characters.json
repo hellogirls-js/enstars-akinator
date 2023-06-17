@@ -1,0 +1,1165 @@
+[
+  {
+    "character_id": 22,
+    "sort_id": 1,
+    "unit": [
+      2
+    ],
+    "agency": "starpro",
+    "height": 179,
+    "weight": 59,
+    "birthday": "2000-01-10",
+    "horoscope": 9,
+    "age": 18,
+    "blood_type": "O",
+    "circle": [
+      "sports",
+      "teaflavor"
+    ],
+    "school": "Yumenosaki",
+    "handedness": "left",
+    "height_old": 179,
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  {
+    "character_id": 27,
+    "sort_id": 2,
+    "unit": [
+      2
+    ],
+    "agency": "starpro",
+    "image_color": "#a1d8e2",
+    "height": 180,
+    "weight": 63,
+    "birthday": "2000-02-21",
+    "horoscope": 11,
+    "age": 18,
+    "blood_type": "AB",
+    "circle": [
+      "dramatica",
+      "bioanimal"
+    ],
+    "school": "Yumenosaki",
+    "handedness": "right",
+    "height_old": 179,
+    "hair_color": "blue",
+    "eye_color": "purple",
+    "long_hair": true
+  },
+  {
+    "character_id": 6,
+    "sort_id": 3,
+    "unit": [
+      2
+    ],
+    "agency": "starpro",
+    "image_color": "#f5b2b2",
+    "height": 153,
+    "weight": 49,
+    "birthday": "2000-01-13",
+    "horoscope": 9,
+    "age": 16,
+    "blood_type": "B",
+    "circle": [
+      "archivemanga",
+      "pretty5"
+    ],
+    "school": "Yumenosaki",
+    "handedness": "right",
+    "height_old": 152,
+    "hair_color": "pink",
+    "eye_color": "green"
+  },
+  {
+    "character_id": 19,
+    "sort_id": 4,
+    "unit": [
+      2
+    ],
+    "agency": "starpro",
+    "image_color": "#3e62ad",
+    "height": 175,
+    "weight": 60,
+    "birthday": "2000-10-18",
+    "horoscope": 6,
+    "age": 17,
+    "blood_type": "A",
+    "circle": [
+      "kitchen",
+      "lecturekeito"
+    ],
+    "school": "Yumenosaki",
+    "handedness": "right",
+    "height_old": 175,
+    "hair_color": "blue",
+    "eye_color": "purple",
+    "beauty_mark": true
+  },
+  {
+    "character_id": 12,
+    "sort_id": 5,
+    "unit": [
+      1
+    ],
+    "agency": "starpro",
+    "image_color": "#0068b7",
+    "height": 173,
+    "weight": 55,
+    "birthday": "2000-12-17",
+    "horoscope": 8,
+    "age": 17,
+    "blood_type": "A",
+    "circle": [
+      "dramatica",
+      "craftmonster"
+    ],
+    "school": "Yumenosaki",
+    "handedness": "right",
+    "height_old": 172,
+    "hair_color": "black",
+    "eye_color": "blue"
+  },
+  {
+    "character_id": 11,
+    "sort_id": 6,
+    "unit": [
+      1
+    ],
+    "agency": "starpro",
+    "image_color": "#f3981d",
+    "height": 171,
+    "weight": 55,
+    "birthday": "2000-06-22",
+    "horoscope": 3,
+    "age": 18,
+    "blood_type": "O",
+    "circle": [
+      "bioanimal",
+      "sports"
+    ],
+    "school": "Yumenosaki",
+    "handedness": "right",
+    "height_old": 170,
+    "hair_color": "orange",
+    "eye_color": "blue"
+  },
+  {
+    "character_id": 13,
+    "sort_id": 7,
+    "unit": [
+      1
+    ],
+    "agency": "starpro",
+    "image_color": "#65ab31",
+    "height": 174,
+    "weight": 58,
+    "birthday": "2000-04-30",
+    "horoscope": 1,
+    "age": 18,
+    "blood_type": "O",
+    "circle": [
+      "craftmonster",
+      "mystery"
+    ],
+    "school": "Yumenosaki",
+    "handedness": "right",
+    "height_old": 173,
+    "hair_color": "blonde",
+    "eye_color": "green",
+    "glasses": true
+  },
+  {
+    "character_id": 18,
+    "sort_id": 8,
+    "unit": [
+      1
+    ],
+    "agency": "starpro",
+    "height": 169,
+    "weight": 54,
+    "birthday": "2000-03-16",
+    "horoscope": 11,
+    "age": 17,
+    "blood_type": "O",
+    "circle": [
+      "archivemanga",
+      "bandbb"
+    ],
+    "school": "Yumenosaki",
+    "handedness": "right",
+    "height_old": 169,
+    "hair_color": "magenta",
+    "eye_color": "green"
+  },
+  {
+    "character_id": 25,
+    "sort_id": 9,
+    "unit": [
+      5
+    ],
+    "agency": "starpro",
+    "image_color": "#e60033",
+    "height": 175,
+    "weight": 60,
+    "birthday": "2000-09-18",
+    "horoscope": 5,
+    "age": 18,
+    "blood_type": "O",
+    "circle": [
+      "sports",
+      "shin"
+    ],
+    "school": "Yumenosaki",
+    "height_old": 175,
+    "hair_color": "brown",
+    "eye_color": "brown",
+    "handedness": "right"
+  },
+  {
+    "character_id": 28,
+    "sort_id": 10,
+    "unit": [
+      5
+    ],
+    "agency": "starpro",
+    "image_color": "#008db7",
+    "height": 176,
+    "weight": 60,
+    "birthday": "2000-08-30",
+    "horoscope": 5,
+    "age": 18,
+    "blood_type": "B",
+    "circle": [
+      "bioocean",
+      "mystery"
+    ],
+    "school": "Yumenosaki",
+    "height_old": 176,
+    "hair_color": "blue",
+    "eye_color": "green",
+    "handedness": "right"
+  },
+  {
+    "character_id": 1,
+    "sort_id": 11,
+    "unit": [
+      5
+    ],
+    "agency": "starpro",
+    "image_color": "#302833",
+    "height": 170,
+    "weight": 55,
+    "birthday": "2000-06-15",
+    "horoscope": 2,
+    "age": 17,
+    "blood_type": "A",
+    "circle": [
+      "shin",
+      "lectureibara"
+    ],
+    "school": "Yumenosaki",
+    "class": "2-A",
+    "height_old": 168,
+    "hair_color": "black",
+    "eye_color": "orange",
+    "multi_hair": true
+  },
+  {
+    "character_id": 5,
+    "sort_id": 12,
+    "unit": [
+      5
+    ],
+    "agency": "starpro",
+    "image_color": "#00533f",
+    "height": 179,
+    "weight": 64,
+    "birthday": "2000-08-29",
+    "horoscope": 5,
+    "age": 16,
+    "blood_type": "O",
+    "circle": [
+      "archivemanga",
+      "gardenia"
+    ],
+    "school": "Yumenosaki",
+    "class": "2-A",
+    "height_old": 178,
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  {
+    "character_id": 7,
+    "sort_id": 13,
+    "unit": [
+      5
+    ],
+    "agency": "starpro",
+    "image_color": "#ffdc00",
+    "height": 160,
+    "weight": 50,
+    "birthday": "2000-06-09",
+    "horoscope": 2,
+    "age": 17,
+    "blood_type": "AB",
+    "circle": [
+      "bioocean",
+      "asobi"
+    ],
+    "school": "Yumenosaki",
+    "class": "2-A",
+    "height_old": 159,
+    "hair_color": "purple",
+    "eye_color": "yellow",
+    "multi_hair": true
+  },
+  {
+    "character_id": 67,
+    "sort_id": 14,
+    "unit": [
+      15
+    ],
+    "agency": "starpro",
+    "image_color": "#ba2636",
+    "height": 174,
+    "weight": 57,
+    "birthday": "2000-01-04",
+    "horoscope": 9,
+    "age": 16,
+    "blood_type": "A",
+    "circle": [
+      "shin",
+      "lecturekeito"
+    ],
+    "school": "Yumenosaki",
+    "class": "2-B",
+    "hair_color": "red",
+    "eye_color": "blue"
+  },
+  {
+    "character_id": 68,
+    "sort_id": 15,
+    "unit": [
+      15
+    ],
+    "agency": "starpro",
+    "image_color": "#fff1cf",
+    "height": 167,
+    "weight": 53,
+    "birthday": "2000-11-27",
+    "horoscope": 8,
+    "age": 15,
+    "blood_type": "B",
+    "circle": [
+      "pretty5",
+      "lecturekeito"
+    ],
+    "school": "Yumenosaki",
+    "class": "1-A",
+    "hair_color": "blonde",
+    "eye_color": "green"
+  },
+  {
+    "character_id": 69,
+    "sort_id": 16,
+    "unit": [
+      15
+    ],
+    "agency": "starpro",
+    "image_color": "#522f60",
+    "height": 174,
+    "weight": 55,
+    "birthday": "2000-06-06",
+    "horoscope": 2,
+    "age": 18,
+    "blood_type": "O",
+    "circle": [
+      "sweets",
+      "overnight"
+    ],
+    "school": "Yumenosaki",
+    "class": "3-B",
+    "hair_color": "purple",
+    "eye_color": "blue",
+    "beauty_mark": true,
+    "long_hair": true
+  },
+  {
+    "character_id": 70,
+    "sort_id": 17,
+    "unit": [
+      15
+    ],
+    "agency": "starpro",
+    "image_color": "#7ebea5",
+    "height": 177,
+    "weight": 58,
+    "birthday": "2000-12-28",
+    "horoscope": 9,
+    "age": 18,
+    "blood_type": "A",
+    "circle": [
+      "teaflavor",
+      "gardenia"
+    ],
+    "school": "Reimei",
+    "class": "3-S",
+    "hair_color": "green",
+    "eye_color": "purple",
+    "beauty_mark": true
+  },
+  {
+    "character_id": 50,
+    "sort_id": 18,
+    "unit": [
+      14
+    ],
+    "agency": "cospro",
+    "image_color": "#a73836",
+    "height": 178,
+    "weight": 62,
+    "birthday": "2000-10-27",
+    "horoscope": 7,
+    "age": 18,
+    "blood_type": "B",
+    "circle": [
+      "dramatica",
+      "archivebook"
+    ],
+    "school": "Shuuetsu",
+    "hair_color": "white",
+    "eye_color": "orange",
+    "long_hair": true
+  },
+  {
+    "character_id": 41,
+    "sort_id": 19,
+    "unit": [
+      14
+    ],
+    "agency": "cospro",
+    "image_color": "#b8d200",
+    "height": 177,
+    "weight": 61,
+    "birthday": "2000-07-24",
+    "horoscope": 4,
+    "age": 18,
+    "blood_type": "AB",
+    "circle": [
+      "teaflavor",
+      "pretty5"
+    ],
+    "school": "Reimei",
+    "hair_color": "green",
+    "eye_color": "purple"
+  },
+  {
+    "character_id": 51,
+    "sort_id": 20,
+    "unit": [
+      14
+    ],
+    "agency": "cospro",
+    "image_color": "#74325c",
+    "height": 172,
+    "weight": 60,
+    "birthday": "2000-11-14",
+    "horoscope": 7,
+    "age": 17,
+    "blood_type": "A",
+    "circle": [
+      "kitchen",
+      "lectureibara"
+    ],
+    "school": "Shuuetsu",
+    "class": "3-S",
+    "hair_color": "magenta",
+    "eye_color": "blue",
+    "glasses": true
+  },
+  {
+    "character_id": 42,
+    "sort_id": 21,
+    "unit": [
+      14
+    ],
+    "agency": "cospro",
+    "image_color": "#192f60",
+    "height": 173,
+    "weight": 61,
+    "birthday": "2000-08-16",
+    "horoscope": 4,
+    "age": 17,
+    "blood_type": "O",
+    "circle": [
+      "archivemanga",
+      "asobi"
+    ],
+    "school": "Reimei",
+    "class": "3-S",
+    "hair_color": "blue",
+    "eye_color": "yellow"
+  },
+  {
+    "character_id": 35,
+    "sort_id": 22,
+    "unit": [
+      9
+    ],
+    "agency": "cospro",
+    "image_color": "#e3acae",
+    "height": 177,
+    "weight": 59,
+    "birthday": "2000-10-30",
+    "horoscope": 7,
+    "age": 18,
+    "blood_type": "A",
+    "circle": [
+      "dramatica",
+      "craftmonster"
+    ],
+    "school": "Yumenosaki",
+    "hair_color": "pink",
+    "eye_color": "purple"
+  },
+  {
+    "character_id": 34,
+    "sort_id": 23,
+    "unit": [
+      9
+    ],
+    "agency": "cospro",
+    "image_color": "#006a6c",
+    "height": 171,
+    "weight": 54,
+    "birthday": "2000-12-26",
+    "horoscope": 9,
+    "age": 17,
+    "blood_type": "B",
+    "circle": [
+      "pretty5",
+      "lecturekeito"
+    ],
+    "school": "Yumenosaki",
+    "class": "3-A",
+    "hair_color": "green",
+    "multi_eye": true
+  },
+  {
+    "character_id": 4,
+    "sort_id": 24,
+    "unit": [
+      7
+    ],
+    "agency": "cospro",
+    "image_color": "#eb6ea0",
+    "height": 170,
+    "weight": 54,
+    "birthday": "2000-03-05",
+    "horoscope": 11,
+    "age": 16,
+    "blood_type": "AB",
+    "circle": [
+      "gardenia",
+      "bandbb"
+    ],
+    "school": "Yumenosaki",
+    "class": "2-B",
+    "height_old": 168,
+    "hair_color": "orange",
+    "eye_color": "green"
+  },
+  {
+    "character_id": 8,
+    "sort_id": 25,
+    "unit": [
+      7
+    ],
+    "agency": "cospro",
+    "image_color": "#00a1e9",
+    "height": 170,
+    "weight": 54,
+    "birthday": "2000-03-05",
+    "horoscope": 11,
+    "age": 16,
+    "blood_type": "AB",
+    "circle": [
+      "bandbb",
+      "asobi"
+    ],
+    "school": "Yumenosaki",
+    "class": "2-B",
+    "height_old": 168,
+    "hair_color": "orange",
+    "eye_color": "green"
+  },
+  {
+    "character_id": 71,
+    "sort_id": 26,
+    "unit": [
+      16
+    ],
+    "agency": "cospro",
+    "image_color": "#b7282e",
+    "height": 181,
+    "weight": 61,
+    "birthday": "2000-05-18",
+    "horoscope": 1,
+    "age": 21,
+    "blood_type": "A",
+    "circle": [
+      "asobi",
+      "craftmonster"
+    ],
+    "handedness": "right",
+    "hair_color": "red",
+    "eye_color": "blue"
+  },
+  {
+    "character_id": 72,
+    "sort_id": 27,
+    "first_name": "HiMERU",
+    "unit": [
+      16
+    ],
+    "agency": "cospro",
+    "image_color": "#89c3eb",
+    "height": 178,
+    "weight": 56,
+    "birthday": "2000-07-07",
+    "horoscope": 3,
+    "age": 17,
+    "blood_type": "O",
+    "circle": [
+      "sweets",
+      "lectureibara"
+    ],
+    "school": "Shuuetsu",
+    "class": "3-S",
+    "handedness": "right",
+    "hair_color": "blue",
+    "eye_color": "yellow"
+  },
+  {
+    "character_id": 73,
+    "sort_id": 28,
+    "unit": [
+      16,
+      17
+    ],
+    "agency": "cospro",
+    "image_color": "#f4b3c2",
+    "height": 168,
+    "weight": 61,
+    "birthday": "2000-02-05",
+    "horoscope": 10,
+    "age": 15,
+    "blood_type": "B",
+    "circle": [
+      "teakaori",
+      "sweets"
+    ],
+    "school": "Reimei",
+    "class": "1-S",
+    "handedness": "right",
+    "hair_color": "pink",
+    "eye_color": "purple"
+  },
+  {
+    "character_id": 74,
+    "sort_id": 29,
+    "unit": [
+      16
+    ],
+    "agency": "cospro",
+    "image_color": "#507ea4",
+    "height": 176,
+    "weight": 51,
+    "birthday": "2000-10-05",
+    "horoscope": 6,
+    "age": 18,
+    "blood_type": "AB",
+    "circle": [
+      "kitchen",
+      "overnight"
+    ],
+    "handedness": "left",
+    "hair_color": "gray",
+    "eye_color": "blue",
+    "long_hair": true
+  },
+  {
+    "character_id": 29,
+    "sort_id": 30,
+    "unit": [
+      3
+    ],
+    "agency": "rhylin",
+    "image_color": "#47266e",
+    "height": 179,
+    "weight": 61,
+    "birthday": "2000-11-02",
+    "horoscope": 7,
+    "age": 19,
+    "blood_type": "B",
+    "circle": [
+      "bandbb",
+      "mystery"
+    ],
+    "school": "Yumenosaki",
+    "hair_color": "black",
+    "eye_color": "red"
+  },
+  {
+    "character_id": 23,
+    "sort_id": 31,
+    "unit": [
+      3
+    ],
+    "agency": "rhylin",
+    "image_color": "#fdd35c",
+    "height": 178,
+    "weight": 63,
+    "birthday": "2000-11-03",
+    "horoscope": 7,
+    "age": 18,
+    "blood_type": "B",
+    "circle": [
+      "archivebook",
+      "bioocean"
+    ],
+    "school": "Yumenosaki",
+    "hair_color": "blonde",
+    "eye_color": "gray"
+  },
+  {
+    "character_id": 16,
+    "sort_id": 32,
+    "unit": [
+      3
+    ],
+    "agency": "rhylin",
+    "image_color": "#c9caca",
+    "height": 175,
+    "weight": 58,
+    "birthday": "2000-07-18",
+    "horoscope": 3,
+    "age": 17,
+    "blood_type": "A",
+    "circle": [
+      "bioanimal",
+      "bandbb"
+    ],
+    "school": "Yumenosaki",
+    "class": "3-B",
+    "height_old": 174,
+    "hair_color": "gray",
+    "eye_color": "yellow"
+  },
+  {
+    "character_id": 15,
+    "sort_id": 33,
+    "unit": [
+      3
+    ],
+    "agency": "rhylin",
+    "image_color": "#915da3",
+    "height": 178,
+    "weight": 64,
+    "birthday": "2000-08-29",
+    "horoscope": 5,
+    "age": 17,
+    "blood_type": "A",
+    "circle": [
+      "sports",
+      "teakaori"
+    ],
+    "school": "Yumenosaki",
+    "class": "3-B",
+    "hair_color": "purple",
+    "eye_color": "yellow"
+  },
+  {
+    "character_id": 3,
+    "sort_id": 34,
+    "unit": [
+      6
+    ],
+    "agency": "rhylin",
+    "image_color": "#eedcb3",
+    "height": 168,
+    "weight": 53,
+    "birthday": "2000-03-29",
+    "horoscope": 0,
+    "age": 16,
+    "blood_type": "A",
+    "circle": [
+      "dramatica",
+      "bioanimal"
+    ],
+    "school": "Yumenosaki",
+    "class": "2-B",
+    "handedness": "right",
+    "height_old": 167,
+    "hair_color": "blonde",
+    "eye_color": "brown"
+  },
+  {
+    "character_id": 30,
+    "sort_id": 35,
+    "unit": [
+      6
+    ],
+    "agency": "rhylin",
+    "image_color": "#ffec47",
+    "height": 160,
+    "weight": 49,
+    "birthday": "2000-04-27",
+    "horoscope": 1,
+    "age": 19,
+    "blood_type": "O",
+    "circle": [
+      "bioanimal",
+      "mystery"
+    ],
+    "school": "Yumenosaki",
+    "eye_color": "red",
+    "hair_color": "blonde"
+  },
+  {
+    "character_id": 9,
+    "sort_id": 36,
+    "unit": [
+      6
+    ],
+    "agency": "rhylin",
+    "image_color": "#ed6d35",
+    "height": 168,
+    "weight": 54,
+    "birthday": "2000-09-07",
+    "horoscope": 5,
+    "age": 16,
+    "blood_type": "O",
+    "circle": [
+      "sports",
+      "outdoors"
+    ],
+    "school": "Yumenosaki",
+    "class": "2-B",
+    "height_old": 167,
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  {
+    "character_id": 2,
+    "sort_id": 37,
+    "unit": [
+      6
+    ],
+    "agency": "rhylin",
+    "image_color": "#cab8d9",
+    "height": 165,
+    "weight": 50,
+    "birthday": "2000-07-15",
+    "horoscope": 3,
+    "age": 16,
+    "blood_type": "AB",
+    "circle": [
+      "teaflavor",
+      "archivebook",
+      "gardenia"
+    ],
+    "school": "Yumenosaki",
+    "class": "2-B",
+    "hair_color": "blue",
+    "eye_color": "purple"
+  },
+  {
+    "character_id": 21,
+    "sort_id": 38,
+    "unit": [
+      8
+    ],
+    "agency": "rhylin",
+    "image_color": "#316745",
+    "height": 178,
+    "weight": 60,
+    "birthday": "2000-09-06",
+    "horoscope": 5,
+    "age": 18,
+    "blood_type": "A",
+    "circle": [
+      "dramatica",
+      "lecturekeito",
+      "archivemanga"
+    ],
+    "school": "Yumenosaki",
+    "hair_color": "green",
+    "eye_color": "green",
+    "glasses": true
+  },
+  {
+    "character_id": 26,
+    "sort_id": 39,
+    "unit": [
+      8
+    ],
+    "agency": "rhylin",
+    "image_color": "#e83929",
+    "height": 181,
+    "weight": 65,
+    "birthday": "2000-01-26",
+    "horoscope": 10,
+    "age": 18,
+    "blood_type": "O",
+    "circle": [
+      "shin",
+      "overnight"
+    ],
+    "school": "Yumenosaki",
+    "height_old": 180,
+    "hair_color": "red",
+    "eye_color": "green",
+    "multi_hair": true
+  },
+  {
+    "character_id": 14,
+    "sort_id": 40,
+    "unit": [
+      8
+    ],
+    "agency": "rhylin",
+    "image_color": "#5654a2",
+    "height": 174,
+    "weight": 55,
+    "birthday": "2000-04-20",
+    "horoscope": 1,
+    "age": 18,
+    "blood_type": "A",
+    "circle": [
+      "teakaori",
+      "kitchen"
+    ],
+    "school": "Yumenosaki",
+    "class": "3-B",
+    "height_old": 173,
+    "hair_color": "purple",
+    "eye_color": "purple",
+    "long_hair": true
+  },
+  {
+    "character_id": 10,
+    "sort_id": 41,
+    "unit": [
+      4
+    ],
+    "agency": "newdi",
+    "image_color": "#942343",
+    "height": 168,
+    "weight": 54,
+    "birthday": "2000-04-06",
+    "horoscope": 0,
+    "age": 17,
+    "blood_type": "A",
+    "circle": [
+      "archivebook",
+      "sweets",
+      "teakaori"
+    ],
+    "school": "Yumenosaki",
+    "class": "2-A",
+    "height_old": 167,
+    "hair_color": "red",
+    "eye_color": "purple"
+  },
+  {
+    "character_id": 33,
+    "sort_id": 42,
+    "unit": [
+      4
+    ],
+    "agency": "newdi",
+    "image_color": "#ec6d51",
+    "height": 169,
+    "weight": 53,
+    "birthday": "2000-05-05",
+    "horoscope": 1,
+    "age": 19,
+    "blood_type": "O",
+    "circle": [
+      "dramatica",
+      "overnight"
+    ],
+    "school": "Yumenosaki",
+    "height_old": 168,
+    "hair_color": "orange",
+    "eye_color": "green"
+  },
+  {
+    "character_id": 24,
+    "sort_id": 43,
+    "unit": [
+      4
+    ],
+    "agency": "newdi",
+    "image_color": "#bbdbf3",
+    "height": 172,
+    "weight": 61,
+    "birthday": "2000-11-02",
+    "horoscope": 7,
+    "age": 18,
+    "blood_type": "A",
+    "circle": [
+      "kitchen",
+      "bioocean"
+    ],
+    "school": "Yumenosaki",
+    "hair_color": "gray",
+    "eye_color": "blue"
+  },
+  {
+    "character_id": 17,
+    "sort_id": 44,
+    "unit": [
+      4
+    ],
+    "agency": "newdi",
+    "character_voice": "山下大輝",
+    "image_color": "#001e43",
+    "height": 170,
+    "weight": 54,
+    "birthday": "2000-09-22",
+    "horoscope": 5,
+    "age": 18,
+    "blood_type": "AB",
+    "circle": [
+      "teaflavor",
+      "craftmonster"
+    ],
+    "school": "Yumenosaki",
+    "class": "3-B",
+    "hair_color": "black",
+    "eye_color": "red"
+  },
+  {
+    "character_id": 20,
+    "sort_id": 45,
+    "unit": [
+      4
+    ],
+    "agency": "newdi",
+    "image_color": "#edde7b",
+    "height": 176,
+    "weight": 59,
+    "birthday": "2000-03-03",
+    "horoscope": 11,
+    "age": 17,
+    "blood_type": "B",
+    "circle": [
+      "dramatica",
+      "pretty5"
+    ],
+    "school": "Yumenosaki",
+    "class": "3-B",
+    "height_old": 175,
+    "hair_color": "blonde",
+    "eye_color": "purple"
+  },
+  {
+    "character_id": 38,
+    "sort_id": 46,
+    "unit": [
+      10
+    ],
+    "agency": "newdi",
+    "image_color": "#d70035",
+    "height": 170,
+    "weight": 53,
+    "birthday": "2000-02-04",
+    "horoscope": 10,
+    "age": 17,
+    "blood_type": "AB",
+    "circle": [
+      "dramatica",
+      "gardenia",
+      "lectureibara"
+    ],
+    "school": "Yumenosaki",
+    "class": "3-B",
+    "height_old": 168,
+    "hair_color": "red",
+    "eye_color": "yellow",
+    "multi_hair": true
+  },
+  {
+    "character_id": 39,
+    "sort_id": 47,
+    "unit": [
+      10
+    ],
+    "agency": "newdi",
+    "image_color": "#00608d",
+    "height": 176,
+    "weight": 58,
+    "birthday": "2000-08-07",
+    "horoscope": 4,
+    "age": 18,
+    "blood_type": "O",
+    "circle": [
+      "archivebook",
+      "mystery"
+    ],
+    "school": "Yumenosaki",
+    "hair_color": "blue",
+    "eye_color": "yellow",
+    "glasses": true
+  },
+  {
+    "character_id": 37,
+    "sort_id": 48,
+    "unit": [
+      10
+    ],
+    "agency": "newdi",
+    "image_color": "#fff352",
+    "height": 165,
+    "weight": 50,
+    "birthday": "2000-07-01",
+    "horoscope": 3,
+    "age": 17,
+    "blood_type": "B",
+    "circle": [
+      "asobi",
+      "lectureibara"
+    ],
+    "school": "Yumenosaki",
+    "height_old": 163,
+    "hair_color": "blonde",
+    "eye_color": "blue",
+    "multi_hair": true
+  },
+  {
+    "character_id": 40,
+    "sort_id": 49,
+    "unit": [
+      11,
+      17
+    ],
+    "agency": "newdi",
+    "image_color": "#622d18",
+    "height": 180,
+    "weight": 64,
+    "birthday": "2000-05-16",
+    "horoscope": 1,
+    "age": 19,
+    "blood_type": "A",
+    "circle": [
+      "teakaori",
+      "shin"
+    ],
+    "school": "Yumenosaki",
+    "hair_color": "brown",
+    "eye_color": "brown"
+  }
+]
