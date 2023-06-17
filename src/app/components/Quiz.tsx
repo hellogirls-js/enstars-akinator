@@ -84,8 +84,10 @@ export default function Quiz({ setImage, setCharaMatch, setFoundMatch }: {setIma
       }
       return q.attribute === "height" && contains;
     });
+    let birthdayArr = charaList.map(c => c.birthday.split('-')[1]);
+    let filteredBdayQuestions = qList.filter(q => q.attribute === "birthday" && birthdayArr.includes(q.value));
 
-    let newQuestionArr = [...filteredHairArr, ...filteredEyeArr, ...filteredAgencyArr, ...filteredSchoolArr, ...filteredCircleArr, ...filteredLongHair, ...filteredGlasses, ...filteredBeautyMark, ...filteredMultiHair, ...filteredMultiEye, ...filteredHeightQuestions];
+    let newQuestionArr = [...filteredHairArr, ...filteredEyeArr, ...filteredAgencyArr, ...filteredSchoolArr, ...filteredCircleArr, ...filteredLongHair, ...filteredGlasses, ...filteredBeautyMark, ...filteredMultiHair, ...filteredMultiEye, ...filteredHeightQuestions, ...filteredBdayQuestions];
 
     // filter out questions that are no longer relevant
     setQuestions(shuffle(newQuestionArr));
