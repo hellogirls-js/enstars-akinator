@@ -180,10 +180,13 @@
 
   .container {
     margin: 0 auto;
+    padding-top: 10%;
     width: 90%;
     min-width: 90%;
     max-width: 90%;
+    height: auto;
     flex-flow: column-reverse nowrap;
+    align-items: flex-start;
   }
 
   .anzu {
@@ -223,6 +226,10 @@
     top: 100%;
     left: 25%;
     right: 25%;
+  }
+
+  .contentText .buttons {
+    margin-top: 5%;
   }
 
   .pagination {
