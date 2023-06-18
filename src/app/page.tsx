@@ -1,3 +1,4 @@
+import Link from "next/link";
 import MainContent from "./components/MainContent"
 import styles from "./page.module.css"
 
@@ -30,6 +31,9 @@ export default async function Home() {
   return (
     <main className={styles.main}>
       <MainContent enData={enData.data} rawData={rawData.data} />
+      <div className={styles.credit}>
+        made by <Link href="https://hellogirls.info">son</Link>
+      </div>
     </main>
   )
 }
